@@ -1,0 +1,54 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/mc00084-001-te0159-000-001_0001"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "DH Hill Library",
+            "purpose": "commenting",
+            "creator": {
+                "id": "annonatatetester",
+                "name": "annonatatetester"
+            },
+            "created": "2023-02-09T22:09:32.004Z",
+            "modified": "2023-02-09T22:09:37.015Z"
+        },
+        {
+            "purpose": "geotagging",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.6705366,
+                    35.7880949
+                ]
+            },
+            "source": "https://www.openstreetmap.org/node/6507322281",
+            "creator": {
+                "id": "annonatatetester",
+                "name": "annonatatetester"
+            },
+            "created": "2023-02-09T22:09:51.002Z"
+        }
+    ],
+    "target": {
+        "source": "https://d.lib.ncsu.edu/collections/canvas/mc00084-001-te0159-000-001_0001",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"3664.326171875,914.1619262695312 3828.876708984375,2124.0927734375 6734.6416242132955,1728.90888451222 6570.0910871039205,518.9780373442513\"></polygon></svg>"
+        },
+        "renderedVia": {
+            "name": "annotorious-tilted-box"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://d.lib.ncsu.edu/collections/catalog/mc00084-001-te0159-000-001_0001/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b14d01de-36be-4513-83ec-b66b3d7e0738.json",
+    "motivation": "commenting"
+}
