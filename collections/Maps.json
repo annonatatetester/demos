@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "Maps",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-storyboard annotationurl='https://annonatatetester.github.io/demos/annotations/cdm17272-contentdm-oclc-org-14057-c0-list.json'></iiif-storyboard>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
