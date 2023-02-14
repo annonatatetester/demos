@@ -1,0 +1,34 @@
+---
+canvas: "https://media.nga.gov/public/manifests/canvas/61371.json"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "test2",
+            "purpose": "commenting",
+            "creator": {
+                "id": "annonatatetester",
+                "name": "annonatatetester"
+            },
+            "created": "2023-02-14T21:46:15.114Z",
+            "modified": "2023-02-14T21:46:15.907Z"
+        }
+    ],
+    "target": {
+        "source": "https://media.nga.gov/public/manifests/canvas/61371.json",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"13396.0751953125\" cy=\"10778.927001953125\" rx=\"3129.0888671875\" ry=\"2700.447021484375\"></ellipse></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://media.nga.gov/public/manifests/nga_highlights.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "52e4a3f9-7c09-459f-8912-49a430f0b15c.json",
+    "motivation": "commenting"
+}
